@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lizy/build/static/css/main.a7c7dc51.chunk.css",
+    "main.js": "/lizy/build/static/js/main.303a0ca2.chunk.js",
+    "main.js.map": "/lizy/build/static/js/main.303a0ca2.chunk.js.map",
+    "runtime-main.js": "/lizy/build/static/js/runtime-main.a08c950a.js",
+    "runtime-main.js.map": "/lizy/build/static/js/runtime-main.a08c950a.js.map",
+    "static/js/2.23904bfc.chunk.js": "/lizy/build/static/js/2.23904bfc.chunk.js",
+    "static/js/2.23904bfc.chunk.js.map": "/lizy/build/static/js/2.23904bfc.chunk.js.map",
+    "index.html": "/lizy/build/index.html",
+    "static/css/main.a7c7dc51.chunk.css.map": "/lizy/build/static/css/main.a7c7dc51.chunk.css.map",
+    "static/js/2.23904bfc.chunk.js.LICENSE.txt": "/lizy/build/static/js/2.23904bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08c950a.js",
+    "static/js/2.23904bfc.chunk.js",
+    "static/css/main.a7c7dc51.chunk.css",
+    "static/js/main.303a0ca2.chunk.js"
+  ]
+}

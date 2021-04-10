@@ -1,0 +1,46 @@
+.app {
+  font-family: 'Montserrat';
+  height: 100vh;
+  text-align: center;
+  background-color: #fff;
+
+  .header {
+    color: #fff;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    background-image: linear-gradient(290deg, #58a9e3, #455b97);
+  }
+
+  .main {
+    // background-image: linear-gradient(290deg, #58a9e3, #455b97);
+    display: flex;
+    flex-direction: row;
+    height: calc(100vh - 100px);
+
+    @media only screen and (max-width: 764px) {
+      flex-direction: column;
+    }
+    
+    .tabs {
+      // width: 400px;
+      height: 72px;
+    }
+
+    &-view {
+      width: calc(100% - 300px);
+      background-color: #f3f3f3;
+      @media only screen and (max-width: 764px) {
+        width: 100%;
+      }
+      // display: flex;
+      &-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+  }
+}
